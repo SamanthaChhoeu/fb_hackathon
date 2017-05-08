@@ -1,4 +1,5 @@
 # ZIPPIFY
+Status: Front end is incomplete, backend works. 
 
 by Hexin, Martin, Samantha, Teresa and Yuvraj
 
